@@ -1,7 +1,7 @@
 # LimeSDR
 # LimeSDR
 
-![LimeSDR board](/images/LimeSDR_722w.jpg)
+![LimeSDR board](https://github.com/myriadrf/LimeSDR-USB/blob/master/images/LimeSDR_722w.jpg)
 
 The [LimeSDR](https://myriadrf.org/projects/limesdr/) board provides a hardware platform for developing and prototyping high-performance and logic-intensive digital and RF designs using Altera’s Cyclone IV FPGA and Lime Microsystems transceiver.
 
